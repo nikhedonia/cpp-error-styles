@@ -1,0 +1,6 @@
+{
+  "name": "error-bemch",
+  "dependencies": {
+    "google/benchmark": "1.1.0"
+  }
+}
